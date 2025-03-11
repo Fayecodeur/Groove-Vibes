@@ -51,7 +51,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <p className="text-center mt-6">
-        &copy; Fayecodeur - Tous droits réservés - 2024
+        &copy; Demba Faye - Tous droits réservés - 2025
       </p>
     </footer>
   );
